@@ -6,15 +6,6 @@
 //  Email :		dmaiden@wisc.edu
 //  CS Login : 		maiden
 /////////////////////////////////////////////////////////////
-//  Disclosures : I took CS 536 - Intro to Programming
-//                Languages and Compilers with Fischer 
-//                in Spring 2015 and CS 564 - Database 
-//                Managements Systems in Fall 2014.
-//                A few concepts are somewhat familiar.
-//
-//                Beyond that, my biggest struggle was casting 
-//		  which were answered in Piazza
-/////////////////////////////////////////////////////////////
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
